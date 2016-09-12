@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Localization
+
+  Created by Aakash Gupta on 01/06/16.
+  Copyright © 2016 Technosearch. All rights reserved.
+*/
+
+
+"Hello"  = "你好";
